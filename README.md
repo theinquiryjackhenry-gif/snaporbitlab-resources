@@ -1,1 +1,0 @@
-# snaporbitlab-resources
