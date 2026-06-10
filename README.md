@@ -3,7 +3,7 @@ If you have Snapchat+, you may have noticed something unusual when viewing a fri
 You become the Sun.
 Your closest friend becomes Mercury.
 Your eighth closest friend becomes Neptune.
-This feature is called [Snapchat Planets](https://snaporbitlab.com/), officially known as the Friend Solar System. It's one of the most popular [Snapchat+ features](https://snaporbitlab.com/snapchat-plus-features/) because it gives users a visual way to see who they interact with the most.
+This feature is called Snapchat Planets, officially known as the Friend Solar System. It's one of the most popular [Snapchat+ features](https://snaporbitlab.com/snapchat-plus-features/) because it gives users a visual way to see who they interact with the most.
 But what do Snapchat Planets actually mean? How does Snapchat decide who gets Mercury and who ends up as Neptune?
 Here's everything you need to know.
 What Are Snapchat Planets?
